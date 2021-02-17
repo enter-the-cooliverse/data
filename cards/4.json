@@ -1,0 +1,14 @@
+{
+  "id": 4,
+  "name": "Crazed Hobo",
+  "type": "monster",
+  "family": "hobo",
+  "stats": {
+    "hp": 400,
+    "atk": 300,
+    "def": 300
+  },
+  "description": "The biting cold has long tempered this man's spirit.",
+  "skills": [],
+  "art": ""
+}

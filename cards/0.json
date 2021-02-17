@@ -1,0 +1,16 @@
+{
+  "id": 0,
+  "name": "Devil Chickencatteclocke",
+  "type": "monster",
+  "family": "chickencatte",
+  "stats": {
+    "hp": 500,
+    "atk": 700,
+    "def": 200
+  },
+  "description": "This baleful creature rouses all men from their peaceful slumber.",
+  "skills": [
+    "riseAndShine"
+  ],
+  "art": "catteclock.png"
+}

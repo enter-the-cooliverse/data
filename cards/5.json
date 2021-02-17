@@ -1,0 +1,16 @@
+{
+  "id": 5,
+  "name": "Cégraimeaux",
+  "type": "monster",
+  "family": "hobo",
+  "stats": {
+    "hp": 1000,
+    "atk": 300,
+    "def": 800
+  },
+  "description": "A wizened husk, surprisingly resilient.",
+  "skills": [
+    "makeIt"
+  ],
+  "art": ""
+}

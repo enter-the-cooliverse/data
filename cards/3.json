@@ -1,0 +1,9 @@
+{
+  "id": 3,
+  "name": "Call of Trumpets",
+  "type": "utility",
+  "family": "hobo",
+  "description": "Use this to search your deck for a monster belonging to the Hobo family and add it to your hand.",
+  "effect": "searchHobo",
+  "art": ""
+}

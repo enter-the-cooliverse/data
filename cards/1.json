@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "name": "Little Chickencatte",
+  "type": "monster",
+  "family": "chickencatte",
+  "stats": {
+    "hp": 500,
+    "atk": 200,
+    "def": 200
+  },
+  "description": "This is a regular chickencatte, but a touch on the small side.",
+  "skills": [],
+  "art": ""
+}
