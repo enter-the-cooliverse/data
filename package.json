@@ -2,8 +2,10 @@
   "name": "data",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.min.js",
+  "type": "module",
   "scripts": {
+    "build": "node build/build.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
