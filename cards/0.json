@@ -3,6 +3,7 @@
   "name": "Devil Chickencatteclocke",
   "type": "monster",
   "family": "chickencatte",
+  "rarity": 3,
   "stats": {
     "hp": 500,
     "atk": 700,

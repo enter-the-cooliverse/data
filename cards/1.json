@@ -3,6 +3,7 @@
   "name": "Little Chickencatte",
   "type": "monster",
   "family": "chickencatte",
+  "rarity": 1,
   "stats": {
     "hp": 500,
     "atk": 200,

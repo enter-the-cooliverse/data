@@ -3,6 +3,7 @@
   "name": "Alarm Clock",
   "type": "equipment",
   "family": "chickencatte",
-  "description": "The prized possession of the Devil Chickencatteclocke.",
+  "rarity": 3,
+  "description": "The prized possession of the Devil Chickencatteclocke. When given to the monster will raise attack and defense by 300.",
   "art": ""
 }

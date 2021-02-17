@@ -3,6 +3,7 @@
   "name": "Cégraimeaux",
   "type": "monster",
   "family": "hobo",
+  "rarity": 4,
   "stats": {
     "hp": 1000,
     "atk": 300,

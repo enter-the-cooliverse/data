@@ -3,7 +3,15 @@
   "name": "Call of Trumpets",
   "type": "utility",
   "family": "hobo",
+  "rarity": 2,
   "description": "Use this to search your deck for a monster belonging to the Hobo family and add it to your hand.",
-  "effect": "searchHobo",
+  "effect": {
+    "type": "search",
+    "target": {
+      "family": "hobo",
+      "type": "monster"
+    },
+    "count": 1
+  },
   "art": ""
 }

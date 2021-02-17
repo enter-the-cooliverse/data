@@ -3,6 +3,7 @@
   "name": "Crazed Hobo",
   "type": "monster",
   "family": "hobo",
+  "rarity": 1,
   "stats": {
     "hp": 400,
     "atk": 300,
